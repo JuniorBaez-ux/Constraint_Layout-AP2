@@ -2,4 +2,7 @@
     <string name="app_name">Constraint_Layout_AP1</string>
     <string name="a_ade_la_contrase_a">Añade la contraseña</string>
     <string name="a_ade_tu_email">Añade tu email</string>
+    <string name="btn1">btn1</string>
+    <string name="btn2">btn2</string>
+    <string name="btn3">btn3</string>
 </resources>
